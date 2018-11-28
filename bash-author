@@ -1,5 +1,5 @@
 #!/bin/sh
 
 echo "# Author: Sergey Pakhomov" 
-echo "# Created: $(date '+%D %T')"
+echo "# Created: $(date '+%d/%m/%Y %T')"
 
